@@ -1,0 +1,4 @@
+interface:
+  display_name: "定向简历制作"
+  short_description: "面向目标公司与岗位调研、改写、排版并验证专业简历"
+  default_prompt: "Use $tailor-resume to research a target role and create a truthful, polished, visually verified resume."
